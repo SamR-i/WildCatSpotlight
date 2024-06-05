@@ -1,0 +1,23 @@
+.mainDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: none;
+    border-radius: 15px;
+    color: white;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 13px;
+    background-color: #7974E7; /* 50% opacity */
+    width: 100px;
+}
+
+.react-datepicker__close-icon::after {
+    /* Remove default icon */
+    background: none;
+    font-family: "Font Awesome 5 Free"; /* Specify the FontAwesome font family */
+    font-weight: 900; /* Ensure it's bold if needed */
+    font-size: 18px; /* Adjust size as needed */
+    position: absolute;
+    top: -30%;
+    right: -2px; /* Adjust positioning as needed */
+}

@@ -1,1 +1,1 @@
-# WildCatSpotlight
+# wildcat-spotlight

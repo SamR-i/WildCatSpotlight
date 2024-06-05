@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wildcat-spotlight",
+  "private_key_id": "ba729501b5ea8a9be3d3872c86559673f8374bea",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDAAVi8mD60j6vB\nEknZBYliLW3iGOr1B94wJPXeEQyyzBftNeUj2XONQc1MuCTVh3qg/L4rc/vTCidf\nQcPc07lmJFaOuz6yxkYRALOGka/36o2QDHXyrT/4YzVFQ1DbmGZ29oSUwHlurH60\no1IaX5XKCYfdDtqLrwhVQ70G5TKJ58vcFR3vC7JXaEC8xu63oSTG1JWvIq0xYBdU\nYs26ZEATxXFmzrak20hHD+ot1HzfhBpSMMvCJUoo3SqdI1uZZJ/AU+1OIJSjo0No\nR2CMxjJblbT8DQwKuW+4taIzu18HKkDTl5N0DsKHr83nSqzfqh9Q/n3K1ewCgb63\nkqAIp/pFAgMBAAECggEAO+QPpGBO6u6HsiU8wMOv2151UJnaLE1kepsE0Fx8HAd6\njSULERgiqZS1b7Fe1/Y3A6FixlYa3nTj3Bw89pRaV+iM0V/JymT7dRFFbnviKlBR\nEPY6ElUFR7rWYoEBZ0YN7BywNWAmYKXQrhLlqNFY/VjktskL1Zdm34XOICj9DzOi\nuzWkbHaJ29vBXdMfugsK/3zRRIKslzGcQ00nVXYfF8mFrpwnRYd+PS2hS3CPBg5y\noHRXlYnkvpVFMLIYViReQmSonjA3tQQ0zPtWAEAizZt2HUXT9NmVQuFyD1j2g++Q\n/EZiVKjgw4Pf9d0HXbIk5Cpf6jylXErww2UmBfgfLwKBgQDf2J3xTXZhISYjL0bm\nP46dc7ev4Mkc9XM+o9S6KzM3D1nFjoqqXbJ9NsVSzS1sY1aoCZ+DiUjzO21EOLlx\n1BsKBnZgETtvnG7oA3lohjWWLrd8/BRnBJ95wUniMRDkb7jSlMglIn7HelugAKJ4\nUFq11njy0Y9aAciymHA6H5OPpwKBgQDbldwzj7HaW6zjrurtnIxdGmyD6QMMKAlH\nwbMuHnkkPkZsFSeEFSIYqoTnmTun2sN5n4VXTRxNmr3jrNlatKq9LrlkQJKYRHla\nuLANQdcoRcKj9qFAH9XltLcFFU5X13pisedmA+4fbR8J3prdkp26tgItI1VKMNty\nd6KQplZEMwKBgQCdPFi9jk8QLSvP3T6tL4nrGcS2m2xJljRMlOIxn3TLQVIqzlSj\nFUvyXo2++vbkQuc1BAVzbPS8Pksjd8Dzry0LHrz6AEDCxpy1BvO6M0Pi6Y/kEGH4\ndyvaZ6aRZyvZeozWBsKMKy3oyw8fVjLJ1o/RWQT+c6uBau1iXme+vD130wKBgQCY\nxMMlUDSBYUSARyKE22RAJfEXONZ476W9OYLKdEL9tyHRckpCt104YfIDGvWJC0bx\n58yh9zDYwO6ZZpj1ZTpgUhCDMfWLYCA5wMIjBwqEpzwKTLzU2xE6NacbLz6JGI25\n+mGt9NAHJyjv+eIugyGfU59h/fIJosIZ+ieskTz1RwKBgQCrN4RmrKfmtKmCAIQp\nclCCL9K4t4rHULBYkzNDUUztSTOBsjY6S8Y3mxLjkBt9pkOVhzVtyo5y0GuoILWf\n6pbKrFnOWo1cirJSvZB6Eg8BepXIhunq6FhG6H4ejzAydaJUv6NMSGYKxArsCZ6+\nIjDr+g2zhUnz/pESZ9pgECvZnQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-wsoq4@wildcat-spotlight.iam.gserviceaccount.com",
+  "client_id": "117083265484462367045",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-wsoq4%40wildcat-spotlight.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

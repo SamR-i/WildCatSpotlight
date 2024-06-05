@@ -1,0 +1,93 @@
+[
+    {
+        "userID": "FRbtIAlHBqSOUUklyRjwu5tFQPp1",
+        "fullName":  "NU Theater Club",
+        "email": "ryanopatka2023@u.northwestern.edu",
+        "profilePicture": "https://dailynorthwestern.com/wp-content/uploads/2023/08/Theater-Lily-ogburn-1200x800.jpg",
+        "bio": "Bringing theater magic to Northwestern and beyond. Stay tuned for productions and workshops!",
+        "orgStatus": true,
+        "favoriteEvents" : [],
+        "attendingEvents" : [],
+        "hostingEvents" : ["1000303104444","10003031234534643"],
+        "following" : [],
+        "followers" : []
+    },
+    {
+        "userID": "4peRi6gy9nfaX8bhxE3nGfqewLH3",
+        "fullName":  "Cinephile Society",
+        "email": "devanshipatel2023@u.northwestern.edu",
+        "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCjZdLaVF6wi2QCLiHSPzb6A_RDmpcbuXEuVpWB4xp8w&s",
+        "bio": "Celebrating cinema with screenings and discussions. Lights, camera, action!",
+        "orgStatus": true,
+        "favoriteEvents" : [],
+        "attendingEvents" : [],
+        "hostingEvents" : ["4953945789349"],
+        "following" : [],
+        "followers" : []
+    },
+    {
+        "userID": "VOr2kSyT5fSf2XZC6hnyp8SUCtf2",
+        "fullName":  "Windy Rockers",
+        "email": "samridet2025@u.northwestern.edu",
+        "profilePicture": "https://assets1.ignimgs.com/2015/10/02/rockband41280jpg-9b2f70_160w.jpg?width=1280",
+        "bio": "Rocking out in the Windy City! Join us for music discovery and jam sessions.",
+        "orgStatus": true,
+        "favoriteEvents" : [],
+        "attendingEvents" : [],
+        "hostingEvents" : ["100030349798314"],
+        "following" : [],
+        "followers" : []
+    },
+    {
+        "userID": "6lueIA0d1CbWQtcxvoQKyRfkbPm1",
+        "fullName":  "NU Music Ensemble",
+        "email": "philipho2025@u.northwestern.edu",
+        "profilePicture": "https://www.music.northwestern.edu/sites/default/files/2023-03/NUSO_2023.1_1.jpg",
+        "bio": "Uniting musicians at Northwestern for rehearsals and concerts. Let's make music!",
+        "orgStatus": true,
+        "favoriteEvents" : [],
+        "attendingEvents" : [],
+        "hostingEvents" : ["132322300030316","1000309084900318","1000303332211"],
+        "following" : [],
+        "followers" : []
+    },
+    {
+        "userID": "QJw0Uw70XjePJbSKX3wR1XtL5x63",
+        "fullName":  "NU Laugh Factory",
+        "email": "robertyang2023@u.northwestern.edu",
+        "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyHPd8LCY2Frci503YHGjjDNBBw-lfd7DfcSXbaAc6UQ&s",
+        "bio": "Spreading laughter with stand-up and improv. Get ready for comedy gold!",
+        "orgStatus": true,
+        "favoriteEvents" : [],
+        "attendingEvents" : [],
+        "hostingEvents" : ["44334100030321","143534500030315"],
+        "following" : [],
+        "followers" : []
+    },
+    {
+        "userID": "asa4XOFCa9UD2GdizwoeEus1JJz2",
+        "fullName":  "NU Conference Association",
+        "email": "conference@u.northwestern.edu",
+        "profilePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC1h8qJ7HkolQbWUDQ9ewoCO2jIkrsf3cmYToJj9TMgA&s",
+        "bio": "Connecting minds through premier conferences at Northwestern University. Stay tuned for upcoming events and join us in shaping the future!",
+        "orgStatus": true,
+        "favoriteEvents" : [],
+        "attendingEvents" : [],
+        "hostingEvents" : ["233223100030322","32453253100030320","13434400030317"],
+        "following" : [],
+        "followers" : []
+    },
+    { 
+    "userID": "pk1uaNdiCKSyBIETz1ZCiX4hgDS2",
+    "fullName":  "John Long",
+    "email": "ry@u.northwestern.edu",
+    "profilePicture": "https://firebasestorage.googleapis.com/v0/b/wildcat-spotlight.appspot.com/o/profilePictures%2FPicture%20of%20me.png?alt=media&token=22924a92-6566-4fe3-be0c-6900eb3804d1",
+    "bio": "Hello Friends!",
+    "orgStatus": false,
+    "favoriteEvents" : ["4953945789349","32453253100030320", "1000309084900318", "1000303104444"],
+    "attendingEvents" : ["100030349798314", "44334100030321"],
+    "hostingEvents" : [],
+    "following" : [],
+    "followers" : []}
+
+]
