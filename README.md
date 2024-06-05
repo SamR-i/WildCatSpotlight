@@ -1,4 +1,4 @@
-```
+
 # Wildcat Spotlight
 
 Wildcat Spotlight is a dynamic web application designed to connect students at Northwestern University with a variety of campus events. Built with React and powered by Vite.js, this platform enables accredited organizations to post and manage events, ensuring that students have access to the latest happenings around campus.
@@ -73,4 +73,4 @@ Deployed Site: [https://wildcat-spotlight.firebaseapp.com/](WildCatSpotlight)
 
 - Northwestern University
 - All the student organizations contributing to an active campus life.
-```
+
